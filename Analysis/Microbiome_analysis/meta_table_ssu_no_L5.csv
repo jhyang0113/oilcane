@@ -1,0 +1,201 @@
+Samples,genotype,genotype2,id,loc.time,type,type2,rep,microbiome
+Sample1,L1,T2,FL,field,leaf,LF,1,holobiomes
+Sample2,L1,T2,FL,field,leaf,LF,2,holobiomes
+Sample3,L1,T2,FL,field,leaf,LF,3,holobiomes
+Sample4,L1,T2,FL,field,leaf,LF,4,holobiomes
+Sample17,L1,T2,FST,field,stem,ST,1,holobiomes
+Sample18,L1,T2,FST,field,stem,ST,2,holobiomes
+Sample19,L1,T2,FST,field,stem,ST,3,holobiomes
+Sample20,L1,T2,FST,field,stem,ST,4,holobiomes
+Sample5,L1,T2,FR,field,root,RT,1,holobiomes
+Sample6,L1,T2,FR,field,root,RT,2,holobiomes
+Sample7,L1,T2,FR,field,root,RT,3,holobiomes
+Sample8,L1,T2,FR,field,root,RT,4,holobiomes
+Sample9,L1,T2,FRAS,field,root associated soils,RS,1,holobiomes
+Sample10,L1,T2,FRAS,field,root associated soils,RS,2,holobiomes
+Sample11,L1,T2,FRAS,field,root associated soils,RS,3,holobiomes
+Sample12,L1,T2,FRAS,field,root associated soils,RS,4,holobiomes
+Sample13,L1,T2,FS,field,soil,SO,1,soil_microbiome
+Sample14,L1,T2,FS,field,soil,SO,2,soil_microbiome
+Sample15,L1,T2,FS,field,soil,SO,3,soil_microbiome
+Sample16,L1,T2,FS,field,soil,SO,4,soil_microbiome
+Sample21,L1,TR,GHL,greenhouse,leaf,LF,1,holobiomes
+Sample22,L1,TR,GHL,greenhouse,leaf,LF,2,holobiomes
+Sample23,L1,TR,GHL,greenhouse,leaf,LF,3,holobiomes
+Sample24,L1,TR,GHL,greenhouse,leaf,LF,4,holobiomes
+Sample25,L1,TR,GHR,greenhouse,root,RT,1,holobiomes
+Sample26,L1,TR,GHR,greenhouse,root,RT,2,holobiomes
+Sample27,L1,TR,GHR,greenhouse,root,RT,3,holobiomes
+Sample28,L1,TR,GHR,greenhouse,root,RT,4,holobiomes
+Sample29,L1,TR,GHRAS,greenhouse,root associated soils,RS,1,holobiomes
+Sample30,L1,TR,GHRAS,greenhouse,root associated soils,RS,2,holobiomes
+Sample31,L1,TR,GHRAS,greenhouse,root associated soils,RS,3,holobiomes
+Sample32,L1,TR,GHRAS,greenhouse,root associated soils,RS,4,holobiomes
+Sample33,L1,TR,GHS,greenhouse,soil,SO,1,soil_microbiome
+Sample34,L1,TR,GHS,greenhouse,soil,SO,2,soil_microbiome
+Sample35,L1,TR,GHS,greenhouse,soil,SO,3,soil_microbiome
+Sample36,L1,TR,GHS,greenhouse,soil,SO,4,soil_microbiome
+Sample37,L1,TR,GHST,greenhouse,stem,ST,1,holobiomes
+Sample38,L1,TR,GHST,greenhouse,stem,ST,2,holobiomes
+Sample39,L1,TR,GHST,greenhouse,stem,ST,3,holobiomes
+Sample40,L1,TR,GHST,greenhouse,stem,ST,4,holobiomes
+Sample41,L2,T2,FL,field,leaf,LF,1,holobiomes
+Sample42,L2,T2,FL,field,leaf,LF,2,holobiomes
+Sample43,L2,T2,FL,field,leaf,LF,3,holobiomes
+Sample44,L2,T2,FL,field,leaf,LF,4,holobiomes
+Sample45,L2,T2,FR,field,root,RT,1,holobiomes
+Sample46,L2,T2,FR,field,root,RT,2,holobiomes
+Sample47,L2,T2,FR,field,root,RT,3,holobiomes
+Sample48,L2,T2,FR,field,root,RT,4,holobiomes
+Sample49,L2,T2,FRAS,field,root associated soils,RS,1,holobiomes
+Sample50,L2,T2,FRAS,field,root associated soils,RS,2,holobiomes
+Sample51,L2,T2,FRAS,field,root associated soils,RS,3,holobiomes
+Sample52,L2,T2,FRAS,field,root associated soils,RS,4,holobiomes
+Sample53,L2,T2,FS,field,soil,SO,1,soil_microbiome
+Sample54,L2,T2,FS,field,soil,SO,2,soil_microbiome
+Sample55,L2,T2,FS,field,soil,SO,3,soil_microbiome
+Sample56,L2,T2,FS,field,soil,SO,4,soil_microbiome
+Sample57,L2,T2,FST,field,stem,ST,1,holobiomes
+Sample58,L2,T2,FST,field,stem,ST,2,holobiomes
+Sample59,L2,T2,FST,field,stem,ST,3,holobiomes
+Sample60,L2,T2,FST,field,stem,ST,4,holobiomes
+Sample61,L2,TR,GHL,greenhouse,leaf,LF,1,holobiomes
+Sample62,L2,TR,GHL,greenhouse,leaf,LF,2,holobiomes
+Sample63,L2,TR,GHL,greenhouse,leaf,LF,3,holobiomes
+Sample64,L2,TR,GHL,greenhouse,leaf,LF,4,holobiomes
+Sample65,L2,TR,GHR,greenhouse,root,RT,1,holobiomes
+Sample66,L2,TR,GHR,greenhouse,root,RT,2,holobiomes
+Sample67,L2,TR,GHR,greenhouse,root,RT,3,holobiomes
+Sample68,L2,TR,GHR,greenhouse,root,RT,4,holobiomes
+Sample69,L2,TR,GHRAS,greenhouse,root associated soils,RS,1,holobiomes
+Sample70,L2,TR,GHRAS,greenhouse,root associated soils,RS,2,holobiomes
+Sample71,L2,TR,GHRAS,greenhouse,root associated soils,RS,3,holobiomes
+Sample72,L2,TR,GHRAS,greenhouse,root associated soils,RS,4,holobiomes
+Sample73,L2,TR,GHS,greenhouse,soil,SO,1,soil_microbiome
+Sample74,L2,TR,GHS,greenhouse,soil,SO,2,soil_microbiome
+Sample75,L2,TR,GHS,greenhouse,soil,SO,3,soil_microbiome
+Sample76,L2,TR,GHS,greenhouse,soil,SO,4,soil_microbiome
+Sample77,L2,TR,GHST,greenhouse,stem,ST,1,holobiomes
+Sample78,L2,TR,GHST,greenhouse,stem,ST,2,holobiomes
+Sample79,L2,TR,GHST,greenhouse,stem,ST,3,holobiomes
+Sample80,L2,TR,GHST,greenhouse,stem,ST,4,holobiomes
+Sample81,L3,T2,FL,field,leaf,LF,1,holobiomes
+Sample82,L3,T2,FL,field,leaf,LF,2,holobiomes
+Sample83,L3,T2,FL,field,leaf,LF,3,holobiomes
+Sample84,L3,T2,FL,field,leaf,LF,4,holobiomes
+Sample85,L3,T2,FR,field,root,RT,1,holobiomes
+Sample86,L3,T2,FR,field,root,RT,2,holobiomes
+Sample87,L3,T2,FR,field,root,RT,3,holobiomes
+Sample88,L3,T2,FR,field,root,RT,4,holobiomes
+Sample89,L3,T2,FRAS,field,root associated soils,RS,1,holobiomes
+Sample90,L3,T2,FRAS,field,root associated soils,RS,2,holobiomes
+Sample91,L3,T2,FRAS,field,root associated soils,RS,3,holobiomes
+Sample92,L3,T2,FRAS,field,root associated soils,RS,4,holobiomes
+Sample93,L3,T2,FS,field,soil,SO,1,soil_microbiome
+Sample94,L3,T2,FS,field,soil,SO,2,soil_microbiome
+Sample95,L3,T2,FS,field,soil,SO,3,soil_microbiome
+Sample96,L3,T2,FS,field,soil,SO,4,soil_microbiome
+Sample97,L3,T2,FST,field,stem,ST,1,holobiomes
+Sample98,L3,T2,FST,field,stem,ST,2,holobiomes
+Sample99,L3,T2,FST,field,stem,ST,3,holobiomes
+Sample100,L3,T2,FST,field,stem,ST,4,holobiomes
+Sample101,L3,TR,GHL,greenhouse,leaf,LF,1,holobiomes
+Sample102,L3,TR,GHL,greenhouse,leaf,LF,2,holobiomes
+Sample103,L3,TR,GHL,greenhouse,leaf,LF,3,holobiomes
+Sample104,L3,TR,GHL,greenhouse,leaf,LF,4,holobiomes
+Sample105,L3,TR,GHR,greenhouse,root,RT,1,holobiomes
+Sample106,L3,TR,GHR,greenhouse,root,RT,2,holobiomes
+Sample107,L3,TR,GHR,greenhouse,root,RT,3,holobiomes
+Sample108,L3,TR,GHR,greenhouse,root,RT,4,holobiomes
+Sample109,L3,TR,GHRAS,greenhouse,root associated soils,RS,1,holobiomes
+Sample110,L3,TR,GHRAS,greenhouse,root associated soils,RS,2,holobiomes
+Sample111,L3,TR,GHRAS,greenhouse,root associated soils,RS,3,holobiomes
+Sample112,L3,TR,GHRAS,greenhouse,root associated soils,RS,4,holobiomes
+Sample113,L3,TR,GHS,greenhouse,soil,SO,1,soil_microbiome
+Sample114,L3,TR,GHS,greenhouse,soil,SO,2,soil_microbiome
+Sample115,L3,TR,GHS,greenhouse,soil,SO,3,soil_microbiome
+Sample116,L3,TR,GHS,greenhouse,soil,SO,4,soil_microbiome
+Sample117,L3,TR,GHST,greenhouse,stem,ST,1,holobiomes
+Sample118,L3,TR,GHST,greenhouse,stem,ST,2,holobiomes
+Sample119,L3,TR,GHST,greenhouse,stem,ST,3,holobiomes
+Sample120,L3,TR,GHST,greenhouse,stem,ST,4,holobiomes
+Sample121,L4,T2,FL,field,leaf,LF,1,holobiomes
+Sample122,L4,T2,FL,field,leaf,LF,2,holobiomes
+Sample123,L4,T2,FL,field,leaf,LF,3,holobiomes
+Sample124,L4,T2,FL,field,leaf,LF,4,holobiomes
+Sample125,L4,T2,FR,field,root,RT,1,holobiomes
+Sample126,L4,T2,FR,field,root,RT,2,holobiomes
+Sample127,L4,T2,FR,field,root,RT,3,holobiomes
+Sample128,L4,T2,FR,field,root,RT,4,holobiomes
+Sample129,L4,T2,FRAS,field,root associated soils,RS,1,holobiomes
+Sample130,L4,T2,FRAS,field,root associated soils,RS,2,holobiomes
+Sample131,L4,T2,FRAS,field,root associated soils,RS,3,holobiomes
+Sample132,L4,T2,FRAS,field,root associated soils,RS,4,holobiomes
+Sample133,L4,T2,FS,field,soil,SO,1,soil_microbiome
+Sample134,L4,T2,FS,field,soil,SO,2,soil_microbiome
+Sample135,L4,T2,FS,field,soil,SO,3,soil_microbiome
+Sample136,L4,T2,FS,field,soil,SO,4,soil_microbiome
+Sample137,L4,T2,FST,field,stem,ST,1,holobiomes
+Sample138,L4,T2,FST,field,stem,ST,2,holobiomes
+Sample139,L4,T2,FST,field,stem,ST,3,holobiomes
+Sample140,L4,T2,FST,field,stem,ST,4,holobiomes
+Sample141,L4,TR,GHL,greenhouse,leaf,LF,1,holobiomes
+Sample142,L4,TR,GHL,greenhouse,leaf,LF,2,holobiomes
+Sample143,L4,TR,GHL,greenhouse,leaf,LF,3,holobiomes
+Sample144,L4,TR,GHL,greenhouse,leaf,LF,4,holobiomes
+Sample145,L4,TR,GHR,greenhouse,root,RT,1,holobiomes
+Sample146,L4,TR,GHR,greenhouse,root,RT,2,holobiomes
+Sample147,L4,TR,GHR,greenhouse,root,RT,3,holobiomes
+Sample148,L4,TR,GHR,greenhouse,root,RT,4,holobiomes
+Sample149,L4,TR,GHRAS,greenhouse,root associated soils,RS,1,holobiomes
+Sample150,L4,TR,GHRAS,greenhouse,root associated soils,RS,2,holobiomes
+Sample151,L4,TR,GHRAS,greenhouse,root associated soils,RS,3,holobiomes
+Sample152,L4,TR,GHRAS,greenhouse,root associated soils,RS,4,holobiomes
+Sample153,L4,TR,GHS,greenhouse,soil,SO,1,soil_microbiome
+Sample154,L4,TR,GHS,greenhouse,soil,SO,2,soil_microbiome
+Sample155,L4,TR,GHS,greenhouse,soil,SO,3,soil_microbiome
+Sample156,L4,TR,GHS,greenhouse,soil,SO,4,soil_microbiome
+Sample157,L4,TR,GHST,greenhouse,stem,ST,1,holobiomes
+Sample158,L4,TR,GHST,greenhouse,stem,ST,2,holobiomes
+Sample159,L4,TR,GHST,greenhouse,stem,ST,3,holobiomes
+Sample160,L4,TR,GHST,greenhouse,stem,ST,4,holobiomes
+Sample199,WT,T2,FL,field,leaf,LF,1,holobiomes
+Sample200,WT,T2,FL,field,leaf,LF,2,holobiomes
+Sample201,WT,T2,FL,field,leaf,LF,3,holobiomes
+Sample202,WT,T2,FL,field,leaf,LF,4,holobiomes
+Sample203,WT,T2,FR,field,root,RT,1,holobiomes
+Sample204,WT,T2,FR,field,root,RT,2,holobiomes
+Sample205,WT,T2,FR,field,root,RT,3,holobiomes
+Sample206,WT,T2,FR,field,root,RT,4,holobiomes
+Sample207,WT,T2,FRAS,field,root associated soils,RS,1,holobiomes
+Sample208,WT,T2,FRAS,field,root associated soils,RS,2,holobiomes
+Sample209,WT,T2,FRAS,field,root associated soils,RS,3,holobiomes
+Sample210,WT,T2,FRAS,field,root associated soils,RS,4,holobiomes
+Sample211,WT,T2,FS,field,soil,SO,1,soil_microbiome
+Sample212,WT,T2,FS,field,soil,SO,2,soil_microbiome
+Sample213,WT,T2,FS,field,soil,SO,3,soil_microbiome
+Sample214,WT,T2,FS,field,soil,SO,4,soil_microbiome
+Sample215,WT,T2,FST,field,stem,ST,1,holobiomes
+Sample216,WT,T2,FST,field,stem,ST,2,holobiomes
+Sample217,WT,T2,FST,field,stem,ST,3,holobiomes
+Sample218,WT,T2,FST,field,stem,ST,4,holobiomes
+Sample219,WT,TR,GHL,greenhouse,leaf,LF,1,holobiomes
+Sample220,WT,TR,GHL,greenhouse,leaf,LF,2,holobiomes
+Sample221,WT,TR,GHL,greenhouse,leaf,LF,3,holobiomes
+Sample222,WT,TR,GHL,greenhouse,leaf,LF,4,holobiomes
+Sample223,WT,TR,GHR,greenhouse,root,RT,1,holobiomes
+Sample224,WT,TR,GHR,greenhouse,root,RT,2,holobiomes
+Sample225,WT,TR,GHR,greenhouse,root,RT,3,holobiomes
+Sample226,WT,TR,GHR,greenhouse,root,RT,4,holobiomes
+Sample227,WT,TR,GHRAS,greenhouse,root associated soils,RS,1,holobiomes
+Sample228,WT,TR,GHRAS,greenhouse,root associated soils,RS,2,holobiomes
+Sample229,WT,TR,GHRAS,greenhouse,root associated soils,RS,3,holobiomes
+Sample230,WT,TR,GHRAS,greenhouse,root associated soils,RS,4,holobiomes
+Sample231,WT,TR,GHS,greenhouse,soil,SO,1,soil_microbiome
+Sample232,WT,TR,GHS,greenhouse,soil,SO,2,soil_microbiome
+Sample233,WT,TR,GHS,greenhouse,soil,SO,3,soil_microbiome
+Sample234,WT,TR,GHS,greenhouse,soil,SO,4,soil_microbiome
+Sample235,WT,TR,GHST,greenhouse,stem,ST,1,holobiomes
+Sample236,WT,TR,GHST,greenhouse,stem,ST,2,holobiomes
+Sample237,WT,TR,GHST,greenhouse,stem,ST,3,holobiomes
+Sample238,WT,TR,GHST,greenhouse,stem,ST,4,holobiomes
