@@ -447,7 +447,33 @@ chao_plot <- ggboxplot(ordered_diversity_plot_dataset_x_data, x = "genotype", y 
           step.increase = 0.1, hide.ns = TRUE) + 
           labs(subtitle = get_test_label(res.kruskal_total_chao1_dataset_x, detailed = TRUE),
           caption = get_pwc_label(pwc_total_chao1_dataset_x)) + coord_cartesian(ylim = c(0, 4500))
-print(chao_plot)}
+print(chao_plot)
+                                                  
+# 10. ASV heatmap
+ps_normalization_dataset_x = transform_sample_counts(dataset_x, function(x) x/sum(x))
+phyla_plot <- phyloseq::plot_bar(ps_normalization_dataset_x, fill = "Phylum") + 
+  geom_bar(aes(color = Phylum, fill = Phylum), stat = "identity", position = "stack") +
+  labs(x = "", y = "Relative Abundance\n") +
+  facet_wrap(~ genotype, scales = "free") + theme(panel.background = element_blank() +
+  theme(legend.position = "bottom"), axis.text.x=element_blank(), axis.ticks.x=element_blank())
+print(phyla_plot)
+
+test1 <- tax_glom(dataset_x, "Phylum")
+test2 <- transform_sample_counts(test1, function(x) x / sum(x))
+test3 <- merge_samples(test2, "genotype")
+test4 <- transform_sample_counts(test3, function(x) x / sum(x))
+plot_bar(test4, fill="Phylum")
+
+ASV_dist <- as.matrix(vegdist(test4@otu_table, method = "bray"))
+print(ASV_dist)
+res.pv <- pvclust(ASV_dist, method.dist="euclidean", method.hclust="ward.D2", nboot = 10000)
+print(res.pv)
+plot(res.pv, hang = -1, cex = 0.5)
+pvrect(res.pv, alpha = 0.95)
+clusters <- pvpick(res.pv)
+clusters
+heatmap(ASV_dist, dendrogram="column", trace="none", density.info="none")
+}
 
 analysis_location(ps1_ssu_g_filtered)
 analysis_location(ps1_its_g_filtered)
