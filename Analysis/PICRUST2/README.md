@@ -1,1 +1,1 @@
-This folder contains the script for PICRUST2 and the results files to create the figures.
+This folder contains the input and output files, and script for PICRUST2.
